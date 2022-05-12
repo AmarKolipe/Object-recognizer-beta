@@ -1,0 +1,53 @@
+body{
+
+    color: cornsilk;
+
+    background-color:darkkhaki;
+
+}
+
+.heading{
+
+    width: 69%;
+
+    font-size: 48px;
+
+    color: darkslategrey;
+
+}
+
+.name_of_objects{
+
+    color: maroon;
+
+    font-size: large;
+
+}
+
+#camera{
+
+    border: 3px dashed purple;
+
+    width: 350px;
+
+    height: 300px;
+
+}
+
+#result{
+
+    border: 3px dotted lightyellow;
+
+    width: 350px;
+
+    height: 300px;    
+
+}
+
+#result_object_name, #result_object_accuracy{
+
+    color: darkblue;
+
+    font-size: large;
+
+}
